@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-A well-designed interesting game made using HTML, CSS, and JS where you can play with your favorite edible and click on it to get the highest score.
+A well-designed interesting game made using HTML, CSS, and JS where you can play with your favorite edible item and you just have to click on it to get the highest score.
 
 - There are five categories - Fruits, Vegetables, Sweets, Snacks, and Bakery Products. Click on your favorite edible item to start the game.
 - You can choose how much time you want to spend on one edible.
