@@ -1,4 +1,4 @@
-# <p align="center">Tasty Trek</p>
+# <p align="center">Click The Edible Game - Tasty Trek</p>
 
 <h2>Introduction</h2>
 
